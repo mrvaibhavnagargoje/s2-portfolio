@@ -1,0 +1,15 @@
+.circleContainer{
+    background-color: #f1f1f1;
+    position: relative;
+    margin-top: 100px;
+    .circle{
+        height: 1580%;
+        width: 140%;
+        left: -20%;
+        border-radius: 0 0 50% 50%;
+        background-color: #f1f1f1;
+        z-index: 1;
+        position: absolute;
+        box-shadow: 0px 80px 50px rgba(0, 0, 0, 0.748);
+    }
+}
